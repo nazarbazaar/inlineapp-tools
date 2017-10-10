@@ -1,0 +1,22 @@
+{
+  "name": "inlineapp-tools",
+  "version": "0.0.2",
+  "description": "CafeBazaar inline apps tools in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazarbazaar/inlineapp-tools.git"
+  },
+  "keywords": [
+    "cafebazaar"
+  ],
+  "author": "mehrad77",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nazarbazaar/inlineapp-tools/issues"
+  },
+  "homepage": "https://github.com/nazarbazaar/inlineapp-tools#readme"
+}
